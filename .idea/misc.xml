@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/drawable/button_black_background.xml" value="0.15208333333333332" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/drawable/inputs_background.xml" value="0.15208333333333332" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/activity_account_settings_main2.xml" value="0.25" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/activity_add_post.xml" value="0.18342391304347827" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/activity_sign_up_main.xml" value="0.19927536231884058" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/activity_signin_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/fragment_home.xml" value="0.17119565217391305" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/fragment_notifications.xml" value="0.1816123188405797" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/fragment_profile.xml" value="0.16077898550724637" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/fragment_search.xml" value="0.17119565217391305" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/posts_layout.xml" value="0.17889492753623187" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/layout/user_item_layout.xml" value="0.25" />
+        <entry key="..\:/Kotlin/project_001/app/src/main/res/menu/bottom_nav_menu.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
